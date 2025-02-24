@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Gayathri, and I'm a passionate frontend developer
+###My name is Gayathri, and I'm a passionate frontend developer
 
 - 🔭 I’m currently working on App Development
 - 🌱 I'm currently learning App Development
