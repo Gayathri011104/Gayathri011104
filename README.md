@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gayathri011104&show_icons=true&locale=en&layout=compact" alt="Gayathri" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gayathri011104&show_icons=true&locale=en&layout=compact" alt="Gayathri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayathri011104&show_icons=true&locale=en" alt="Gayathri" /></p>
 
