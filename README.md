@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayathri011104&show_icons=true&locale=en" alt="Gayathri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri011104&" alt="Gayathri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri011104&" alt="Gayathri" /></p>
 
 <!---
 Gayathri011104/Gayathri011104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
