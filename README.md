@@ -6,9 +6,6 @@
 - 📫 How to reach me: kgayathri0111@gmail.com
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri011104" alt="gayathri011104" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
